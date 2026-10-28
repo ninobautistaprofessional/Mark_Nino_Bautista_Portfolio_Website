@@ -9,7 +9,7 @@ export const profile = {
   location: 'Philippines',
   yearsExperience: '3',
   workspaceAccounts: '800+',
-  tagline: 'Reliable IT. Practical solutions.',
+  tagline: 'Reliable IT. Open to opportunities.',
   lead: "I'm Mark Niño A. Bautista, an IT professional with 3 years of experience supporting users, administering Google Workspace, maintaining network infrastructure, and contributing to institutional digital services.",
   about:
     'I work across technical support, Windows environments, Google Workspace administration, networking, CCTV, and institutional website maintenance. I enjoy structured troubleshooting, clear documentation, and making technology easier for users.',

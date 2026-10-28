@@ -27,7 +27,7 @@ export function Hero() {
         >
           Reliable IT.
           <br />
-          <em className="not-italic text-accent">Practical solutions.</em>
+          <em className="not-italic text-accent">Open to opportunities.</em>
         </motion.h1>
         <motion.p {...reveal(0.2)} className="text-muted text-lg max-w-2xl">
           {profile.lead}
